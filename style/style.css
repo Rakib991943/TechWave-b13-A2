@@ -227,3 +227,13 @@ padding-top: 20px;
 border-radius: 40px;
 background-color: rgba(53, 17, 101, 0.4);
 }
+.card-item{
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+}
+.gap{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

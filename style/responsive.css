@@ -68,7 +68,13 @@ color: white;
     .card5{
         grid-column: span 1;         
         grid-row: auto;
+    
     }
+
+    .card-item{
+    margin-top: 0px;
+
+}
 
 }
 
