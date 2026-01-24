@@ -1,0 +1,60 @@
+@media screen and (max-width: 600px) {
+  header > nav ul {
+    display: none;
+  }
+  header{
+    padding: 15px;
+  }
+   header button{
+   display: none;
+   }
+   header img{
+   width: 40px;
+   margin-right: 40px;
+   }
+   .hamburger{
+    display: block;
+}
+.banner{
+   background-position: center;
+  
+}
+.banner h1{
+    margin-bottom: 10px;
+}
+.banner p{
+    margin-bottom: 20px;
+}
+
+.circle-img{
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    left: 70px;
+    top: 40px;
+ 
+    
+}
+.microphone-img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 140px;
+    top:120px;
+}
+.card{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+     margin-left: 0px;
+}
+.choose-container h1{
+    font-style: Bold;
+font-size: 38px;
+font-weight: 700;
+color: white;
+
+}
+}
+
+
+
