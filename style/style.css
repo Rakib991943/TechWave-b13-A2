@@ -99,9 +99,7 @@ header> nav > ul a{
     height: 25px;
     
 }
-.message-img{
- 
-}
+
 .spotify-btn{
     display: flex;
     gap: 15px;
@@ -140,6 +138,17 @@ header> nav > ul a{
     position: absolute;
     left: 675px;
     top: 135px;
+}
+.badge{
+    background-color: #00ff88;
+    padding: 15px 25px;
+    display: inline-block;
+    border-radius: 20px;
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    top: 50px;
+    left: 850px;
 }
 .about{ 
     background-color: rgba(26, 11, 46, 1);

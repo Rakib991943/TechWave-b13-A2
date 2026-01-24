@@ -126,6 +126,17 @@ padding: 20px 0 ;
  
 
 }
+.badge{
+    background-color: #00ff88;
+    padding: 15px 25px;
+    display: inline-block;
+    border-radius: 20px;
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    top: 50px;
+    left: 350px;
+}
 }
 
 
