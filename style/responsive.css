@@ -54,6 +54,22 @@ font-weight: 700;
 color: white;
 
 }
+
+
+.choose-card{
+        grid-template-columns: 1fr;   
+        grid-template-rows: auto;
+    }
+
+    .card1,
+    .card2,
+    .card3,
+    .card4,
+    .card5{
+        grid-column: span 1;         
+        grid-row: auto;
+    }
+
 }
 
 
